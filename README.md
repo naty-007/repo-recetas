@@ -7,4 +7,4 @@
 - **Gengibre sin gengibre**
 
 
-https: [https://github.com/GastonA95/PI-FOOD/blob/main/cooking.png]
+<img src="https://github.com/GastonA95/PI-FOOD/blob/main/cooking.png">
